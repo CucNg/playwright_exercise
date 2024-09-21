@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Sep 21 15:42:19 GMT 2024","Sat Sep 21 15:42:20 GMT 2024","1598","chromium","test/Applied_pageObjectModel.spec.ts","@playwright_exercise @smoke @regression","","","Test case: Using fixture Bao",""
+"passed","Sat Sep 21 15:42:21 GMT 2024","Sat Sep 21 15:42:21 GMT 2024","40","teardown","dependencies-teardown.ts","","","","Dependencies teardown",""
+"passed","Sat Sep 21 15:42:17 GMT 2024","Sat Sep 21 15:42:18 GMT 2024","1834","chromium","test/Applied_pageObjectModel.spec.ts","@playwright_exercise @smoke @regression","","","Test case: Using fixture Anh",""
+"passed","Sat Sep 21 15:42:14 GMT 2024","Sat Sep 21 15:42:16 GMT 2024","2788","setup","dependencies-setup.ts","","","","Dependencies setup",""
