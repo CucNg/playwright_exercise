@@ -3,7 +3,7 @@ const data = JSON.parse(JSON.stringify(require("../../utils1/placeOrderTestData.
 
 test.describe('@playwright_exercise @smoke @regression', () => {
   for (const userData of data) {
-    test.only(`Test case: Using fixture ${userData.checkoutFirstName}`, async ({
+    test(`Test case: Using fixture ${userData.checkoutFirstName}`, async ({
       inventoryPage, cartPage,
       checkoutStepOnePage, checkoutStepTwoPage, checkoutStepCompletePage }) => {
 
