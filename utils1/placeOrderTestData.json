@@ -1,0 +1,19 @@
+[
+    {
+
+    "productNames" :["Sauce Labs Backpack","Sauce Labs Bike Light"],
+    "url": "https://www.saucedemo.com/inventory.html",
+    "checkoutFirstName" :"Anh",
+    "checkoutLastName" : "Nguyen",
+    "checkoutZipcode" :"2024"
+},
+{
+
+    "productNames" :["Sauce Labs Backpack","Sauce Labs Bike Light"],
+    "url": "https://www.saucedemo.com/inventory.html",
+    "checkoutFirstName" :"Bao",
+    "checkoutLastName" : "Tran",
+    "checkoutZipcode" :"2025"
+}
+]
+

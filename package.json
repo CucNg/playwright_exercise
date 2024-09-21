@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "install-deps": "^1.1.0",
+    "npx": "^10.2.2",
+    "playwright": "^1.37.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.37.1",
+    "@types/chai": "^4.3.5",
+    "@types/chai-as-promised": "^7.1.5",
+    "chai": "^4.3.8",
+    "chai-as-promised": "^7.1.1"
+  },
+  "scripts": {}
+}
